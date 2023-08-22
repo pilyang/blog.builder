@@ -25,7 +25,7 @@ jobs:
           provider: 'github'
           token: ${{ secrets.BLOG_PUSH_TOKEN}}
           repository: 'pilyang/pilyang.github.io'
-          branch: "hg-pages"
+          branch: "gh-pages"
           jekyll_src: './'
           jekyll_cfg: '_config.yml'
           jekyll_baseurl: ''
