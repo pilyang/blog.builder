@@ -1,14 +1,13 @@
 #  The contact options.
 
--
-  type: github
+- type: github
   icon: 'fab fa-github'
--
-  type: email
+
+- type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
--
-  type: rss
+
+- type: rss
   icon: 'fas fa-rss'
   noblank: true
 
