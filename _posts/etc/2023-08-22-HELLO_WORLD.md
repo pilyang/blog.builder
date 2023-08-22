@@ -6,7 +6,5 @@ tags: []
 toc: false
 ---
 
-# Hello World
-
 필립 블로그 오픈합니다~
 
