@@ -28,8 +28,8 @@ jobs:
           branch: "hg-pages"
           jekyll_src: './'
           jekyll_cfg: '_config.yml'
-          bundler_ver: '>=0'
           jekyll_baseurl: ''
-          cname: 'blog.pilyang.com'
+          bundler_ver: '>=0'
+          cname: ''
           actor: ''
 
